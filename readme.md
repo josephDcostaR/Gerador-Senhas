@@ -29,7 +29,8 @@ Funcionalidades principais:
 
 ## 📸 Demonstração
 
-> *(Adicione aqui um GIF ou imagem ilustrativa do seu projeto rodando.)*
+![gera-senha](https://github.com/user-attachments/assets/71be8e83-6690-4fdc-ad6b-198bb1c46999)
+
 
 ---
 
@@ -44,7 +45,7 @@ Funcionalidades principais:
 
 ## 🔗 Acesse o Projeto:
 
-[👉 Clique aqui para ver o projeto rodando](https://seuusuario.github.io/seu-repositorio)
+[👉 Clique aqui para ver o projeto rodando](https://josephdcostar.github.io/Gerador-Senhas/)
 
 ---
 
