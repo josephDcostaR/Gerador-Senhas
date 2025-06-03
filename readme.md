@@ -80,8 +80,8 @@ Siga as etapas:
 ## ✍️ Autor
 
 **Seu Nome**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seuperfil-blue)](https://www.linkedin.com/in/josephcostaribeiro/)  
-[![GitHub](https://img.shields.io/badge/GitHub-seuperfil-black)](https://github.com/josephDcostaR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephcostaribeiro-blue)](https://www.linkedin.com/in/josephcostaribeiro/)  
+[![GitHub](https://img.shields.io/badge/GitHub-josephDcostaR-black)](https://github.com/josephDcostaR)
 
 ---
 
